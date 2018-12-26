@@ -22,6 +22,4 @@ doWhileLoop(array){
   let p = array
   do{--array
   } while(p.length>0)
-  
-  
 }
